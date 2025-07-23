@@ -1,3 +1,1 @@
-# fastapi
-Linux Setup
-333
+after remove ms
