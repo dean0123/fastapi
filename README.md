@@ -76,14 +76,17 @@ Second Term seperated with space
 ## 🏭 '>' Arror Block Quote
 
 
-> [!NOTE]
+> [!TIP]
 > > Block 2
 > > > [!NOTE]
 > > > Block 3
 > > > Block 4
 
-> [!TIP]
-> Tips
+> [!NOTE]
+> [!TIP] 
+> [!IMPORTANT]
+> [!CAUTION]
+> [!WARNING] 
 
 
 ## :cactus: '~' Tilde/ ` backtick Code
