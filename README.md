@@ -75,9 +75,11 @@ Second Term seperated with space
 
 
 > Block1
-> > Block 2 
+> > Block 2
 > > > Block 3
 
+> [!TIP]
+> Tips
 
 
 ## :cactus: '~' Tilde/ ` backtick Code
