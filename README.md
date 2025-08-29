@@ -23,10 +23,10 @@ ___
 ## 🚒 * Star/_Under Emphasis
 
 > [!important]
-> _italic_ *1 Star/Under*
-> __Bold__ **2 Stars/Undert**
-> ___Bold and italic___ ***3 Start/Under***
-> ~~2 tilde Strikethrough~~
+> _italic_ *1 Star/Under*  
+> __Bold__ **2 Stars/Undert**  
+> ___Bold and italic___ ***3 Start/Under***  
+> ~~2 tilde Strikethrough~~  
 
 
 ## ✊ * Star/-Minus/+Plus LIST
