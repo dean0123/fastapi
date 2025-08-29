@@ -7,14 +7,14 @@
 
  
 
-## 1. 3stars/minus/under Horizontal Rules
+## 🔥 *** 3stars/-minus/_under Horizontal Rules
 ---
 ___
 ***
 
 
 
-## 2. *Star/_Under Emphasis
+## 🚒 * Star/_Under Emphasis
 
 > _italic_ *1 Star/Under*
 > __Bold__ **2 Stars/Undert**
@@ -22,7 +22,7 @@ ___
 > ~~2 tilde Strikethrough~~
 
 
-## 3. *Star/-Minus/+Plus LIST
+## ✊ * Star/-Minus/+Plus LIST
 > - Unordered list 1
 > - Unordered list 2
 >   - Nested unordered list
@@ -35,8 +35,19 @@ ___
    1. Nested 1 
    1. Nested 2
 
+First Term  :a:
+: :tennis: First item
+: :basketball: 2nd item 
+  next line of first item
 
-## 4. >Arror Block Quote
+Second Term :b:  seperated with space
+: 1st item
+
+- [x] task 1 is completed :date:
+- [ ] test 2
+- [ ] task 3 
+
+## 🏭 '>' Arror Block Quote
 
 
 > Block1
@@ -45,11 +56,11 @@ ___
 
 
 
-## 5. ~Tilde/`backtick Code
+## :cactus: '~' Tilde/ ` backtick Code
 
 `1`` grave Inline code`
 
-4 Indent code block
+4 Indent code block :clock1:
 
     // Some comments
     4 indent code block
@@ -73,6 +84,11 @@ console.log(foo(5));
 ~~~
 
 
+## :1234: Table |---|
+| name | age |  |
+| --  | -- | -- |
+| :cactus: Dean | 50 
+| :tada: Amy  | 20 
 
 
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
