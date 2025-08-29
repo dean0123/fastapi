@@ -1,7 +1,12 @@
-03
 
 > # hash 1 Heading 8-)
+> This is Head 1 with dual line
+> =============================
+
 > ## hash 2 Heading
+> This is Head2 with single line under
+> ------------------------------------
+
 > ### hash 3 Heading
 > #### hash 4 Heading
 
@@ -11,6 +16,7 @@
 ---
 ___
 ***
+
 
 
 
@@ -32,8 +38,16 @@ ___
 
 1. Ordered list 1
 1. Ordered list 2
+   第一行
+   第二行
+
+   第二段
    1. Nested 1 
+      - ok
    1. Nested 2
+      內容下面要斷行，可以後面加兩個 空白.
+      加兩個空白
+
 
 First Term  :a:
 : :tennis: First item
