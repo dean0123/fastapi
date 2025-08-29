@@ -76,6 +76,8 @@ Second Term seperated with space
 
 > Block1
 > > Block 2
+> > > [!NOTE]
+> > > Block 3
 > > > Block 3
 
 > [!TIP]
