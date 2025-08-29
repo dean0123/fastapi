@@ -22,6 +22,7 @@ ___
 
 ## 🚒 * Star/_Under Emphasis
 
+> [!important]
 > _italic_ *1 Star/Under*
 > __Bold__ **2 Stars/Undert**
 > ___Bold and italic___ ***3 Start/Under***
@@ -29,6 +30,7 @@ ___
 
 
 ## ✊ * Star/-Minus/+Plus LIST
+> [!caution]
 > - Unordered list 1
 > - Unordered list 2
 >   - Nested unordered list
