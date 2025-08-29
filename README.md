@@ -56,6 +56,15 @@ First Term  :a:
 Second Term :b:  seperated with space
 : 1st item
 
+<dl>
+  <dt>定義列表</dt>
+  <dd>有時候，人們偶爾會用到。</dd>
+
+  <dt>在 HTML 中撰寫 Markdown</dt>
+  <dd>*無法* 運作的 **非常** 好。改用 HTML<em>標籤</em>。</dd>
+</dl>
+
+
 - [x] task 1 is completed :date:
 - [ ] test 2
 - [ ] task 3 
@@ -98,10 +107,10 @@ console.log(foo(5));
 
 
 ## :1234: Table |---|
-| name | age |  |
-| --  | -- | -- |
-| :cactus: Dean | 50 
-| :tada: Amy  | 20 
+name | age | bt
+--  | -- | -- 
+:cactus: Dean | __50__ 
+:tada: Amy  | 20 
 
 
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
