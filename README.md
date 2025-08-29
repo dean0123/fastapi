@@ -40,22 +40,22 @@ ___
 1. Ordered list 2 後面加**兩個空白` `**就會換行.   
    第二行，自己加**反斜線`\`**換行符號。\
    第三行，自己加**HTML換行`<br>`**符號。<br>
-   第三行，後面沒空白，但**空兩行**會變新**段落**
+   第三行，:basketball: 後面沒空白，但**空兩行**會變新**段落**
    
-   第二段
-   1. Nested 1 
+   第二段 :tennis: 
+   1. Nested 1 :a:
       - ok
-   1. Nested 2
+   1. Nested 2 :b:  
       內容下面要斷行，可以後面加兩個 空白.
       加兩個空白
 
 
-First Term  :a:
-: :tennis: First item
-: :basketball: 2nd item 
+First Term  
+: First item
+: 2nd item
   next line of first item
 
-Second Term :b:  seperated with space
+Second Term seperated with space
 : 1st item
 
 <dl>
